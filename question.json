@@ -1,1 +1,7 @@
-
+{
+  "category": "Instrumentos",
+  "question": "¿Que instrumento músical le gusta a Julieta?",
+  "options": ["Guitarra eléctrica", "piano", "Flauta", "Tambor"],
+  "answer": 1,
+  "explanation": "A julieta le encanta tocar el piano desde bebé",
+}
