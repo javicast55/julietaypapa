@@ -1,1 +1,18 @@
-
+[
+ {
+  "category": "Instrumentos",
+  "description": "Instrumentos que los miembros de la familia prefieren."
+ },
+ {
+  "category": "Juegos de mesa",
+  "description": "Juegos de mesa que los miembros de la familia prefieren."
+ },
+ {
+  "category": "Música",
+  "description": "Música que los miembros de la familia prefieren."
+ },
+ {
+  "category": "Colores",
+  "description": "Colores que los miembros de la familia prefieren."
+ }
+]
