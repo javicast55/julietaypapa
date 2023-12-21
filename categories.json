@@ -14,5 +14,13 @@
  {
   "category": "Colores",
   "description": "Colores que los miembros de la familia prefieren."
+ },
+ {
+  "category": "Animales",
+  "description": "Animales que los miembros de la familia prefieren."
+ },
+ {
+  "category": "Comidas",
+  "description": "Comidas que los miembros de la familia prefieren."
  }
 ]
